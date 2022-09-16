@@ -1,6 +1,6 @@
 # takingchances
 
-Low code static website using Carrd.co and AWS Amplify.
+Low code static website using Carrd.co and AWS Amplify implementation.
 
 URL: https://takingchanceson.me 
 
